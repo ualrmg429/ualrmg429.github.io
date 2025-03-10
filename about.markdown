@@ -11,6 +11,6 @@ permalink: /about/
 A lo largo de mi carrera, he ido desarrollando un interés particular por las áreas relacionadas con la ingeniería del software, y espero poder seguir ampliando mis conocimientos a medida que avanzo en mis estudios.
 
 <!-- Aquí puedes poner tu foto -->
-![Foto de Raúl Martínez Gutiérrez](img/raul2.jpg)
+![Foto de Raúl Martínez Gutiérrez](img/LogoPersonal.jpeg)
 
 
