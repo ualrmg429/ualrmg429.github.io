@@ -21,9 +21,12 @@
 title: Sitio Web de Raúl Martínez para HMIS :)
 email: rmg429@inlumine.ual.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Este sitio está dedicado a la asignatura Herramientas y Métodos de Ingeniería del Software, donde se 
+  exploran las técnicas y herramientas fundamentales que permiten el desarrollo de software eficiente, 
+  de alta calidad y escalable. A lo largo del curso, se abordan temas clave como el ciclo de vida del software, 
+  los métodos ágiles, las herramientas de desarrollo y testing, y las mejores prácticas para la gestión 
+  de proyectos de software. Este espacio sirve como repositorio de conocimientos, recursos y proyectos 
+  prácticos que reflejan los conceptos aprendidos en clase
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: raulmart1nez
