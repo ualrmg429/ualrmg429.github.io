@@ -4,7 +4,6 @@ title: Sobre mí
 permalink: /about/
 ---
 
-# Sobre mí
 
 ¡Hola! Soy **Raúl Martínez Gutiérrez**, un estudiante de **tercero de carrera en Ingeniería Informática** por la **Universidad de Almería (UAL)**. Nací el **30 de junio de 2004** en **Melilla, España**. Actualmente, me encuentro cursando la **mención en Ingeniería del Software**, donde me apasiona aprender sobre las metodologías, herramientas y mejores prácticas para el desarrollo de software.
 
