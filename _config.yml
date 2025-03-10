@@ -30,7 +30,7 @@ twitter_username: raulmart1nez
 github_username:  ualrmg429
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
 - jekyll-feed
 
